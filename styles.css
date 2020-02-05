@@ -1,0 +1,20 @@
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #555;
+}
+
+.container {
+  width: 100%;
+}
+
+article[role=main] {
+  float: left;
+  width: 62.5%;
+}
+
+aside[role=complementary] {
+  float: right;
+  width: 31.25%;
+}
+
+/*# sourceMappingURL=styles.css.map */
